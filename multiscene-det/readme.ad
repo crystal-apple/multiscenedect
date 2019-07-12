@@ -1,0 +1,2 @@
+python reid.py #保存单目标视频下：视频ID，行人ID，检测时间，坐标。每隔5帧进行检测然后追踪。
+python cross_reid-single.py 按一定位置排序的三个摄像头下的检测结果显示
